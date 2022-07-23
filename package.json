@@ -1,0 +1,19 @@
+{
+  "name": "lighting_cloud",
+  "version": "1.0.0",
+  "description": "a weather api for shipstation and shopify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web1221/lighting_cloud.git"
+  },
+  "author": "Lindsay Hofen, Angela Weber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web1221/lighting_cloud/issues"
+  },
+  "homepage": "https://github.com/web1221/lighting_cloud#readme"
+}
