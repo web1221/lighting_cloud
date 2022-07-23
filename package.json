@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/web1221/lighting_cloud/issues"
   },
-  "homepage": "https://github.com/web1221/lighting_cloud#readme"
+  "homepage": "https://github.com/web1221/lighting_cloud#readme",
+  "dependencies": {
+    "node-shipstation": "^0.1.3"
+  }
 }
